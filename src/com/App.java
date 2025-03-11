@@ -12,5 +12,6 @@ public class App {
 		book1.setTitle("Mabi's Life");
 		
 		System.out.println(book);
+		System.out.println(book1);
 	}
 }
